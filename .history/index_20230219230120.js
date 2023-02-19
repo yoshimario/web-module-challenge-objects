@@ -17,10 +17,15 @@ The function should:
 
 
 function createMenuItem(name, price, category){
-  return {name,price,category}
-  }
+  return {
+   ]
+  };
+  const tacos = createMenuItem('tacos', 8, 'Lunch');
+  console.log(tacos); // Output: { name: 'tacos', price: 8, category: 'Lunch' };
+  
+}
 
-console.log(createMenuItem('tacos', 8, 'Lunch'))
+
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1b (not auto-tested): 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 Invoke your function!

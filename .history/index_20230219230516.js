@@ -20,7 +20,8 @@ function createMenuItem(name, price, category){
   return {name,price,category}
   }
 
-console.log(createMenuItem('tacos', 8, 'Lunch'))
+console.log(
+  createMenuItem('tacos', 8, 'Lunch'))
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1b (not auto-tested): 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 Invoke your function!

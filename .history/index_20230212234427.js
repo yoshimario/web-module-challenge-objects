@@ -16,11 +16,11 @@ The function should:
 */
 
 
-function createMenuItem(name, price, category){
-  return {name,price,category}
-  }
+function createMenuItem(/*Your code here*/){
+  /*Your code here*/
+}
 
-console.log(createMenuItem('tacos', 8, 'Lunch'))
+
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1b (not auto-tested): 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 Invoke your function!
