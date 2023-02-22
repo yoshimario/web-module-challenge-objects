@@ -34,12 +34,8 @@ Test your createMenuItems function by doing the following:
   const menuItem1 = createMenuItems('burger',10,'lunch');
   console.log(menuItem1);
 
-  const menuItem2 = createMenuItems('lasagna',40,'dinner');
-  console.log(menuItem2);
+  const menuItem2 = createMenuItems('spa',5,'lunch');
 
-  const menuItem3 = createMenuItems('gold coffee',105,'beverage');
-  console.log(menuItem3);
-  
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 You're having a lunch special! 25% off for teachers and students, 10% off for everyone else. Add a method to the burger object below that automatically calculates price depending on the string received as a parameter. 

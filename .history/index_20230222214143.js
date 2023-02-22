@@ -37,8 +37,6 @@ Test your createMenuItems function by doing the following:
   const menuItem2 = createMenuItems('lasagna',40,'dinner');
   console.log(menuItem2);
 
-  const menuItem3 = createMenuItems('gold coffee',105,'beverage');
-  console.log(menuItem3);
   
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
