@@ -71,10 +71,10 @@ const burger = {
         discountedPrice = this.price;
     }
     return discountedPrice;
-    console.log(burger.discount("teacher")); // Output: 13.5
-    console.log(burger.discount("student")); // Output: 13.5
-    console.log(burger.discount("public"));  // Output: 16.2
   }
+  console.log(burger.discount("teacher")); // Output: 13.5
+  console.log(burger.discount("student")); // Output: 13.5
+  console.log(burger.discount("public"));  
 }
 
 

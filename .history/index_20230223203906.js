@@ -74,7 +74,7 @@ const burger = {
     console.log(burger.discount("teacher")); // Output: 13.5
     console.log(burger.discount("student")); // Output: 13.5
     console.log(burger.discount("public"));  // Output: 16.2
-  }
+  ]
 }
 
 
